@@ -15,7 +15,7 @@ header {
   justify-content: space-between;
   align-items: center;
   text-align: center;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 nav ul {
@@ -34,9 +34,14 @@ nav a {
   text-decoration: none;
 }
 
+nav a:hover{
+  color:#37C796;
+}
+
 main {
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
+  align-items: center;
   padding: 2rem;
 }
 
@@ -47,6 +52,61 @@ section {
 h1, h2, h3 {
   margin-top: 0;
 }
+
+
+.aboutme {
+height: 300px;
+padding: 1rem;
+}
+
+.aboutme p {
+  margin-left: 200px;
+  margin-top: -150px;
+}
+
+.education{
+  padding: 1rem;
+}
+
+.education p {
+  
+  
+  
+  
+}
+
+#Mankato {
+  
+
+
+}
+
+#Mankato p {
+  position:absolute;
+  margin-top: 50px;
+  margin-left: 350px;
+
+  
+}
+
+#UNC {
+  
+}
+
+#UNC p{
+  position:absolute;
+  margin-top: -75px;
+  margin-left: 350px;
+}
+
+.experience{
+  padding: 1rem;
+}
+
+.contact{
+  padding: 1rem;
+}
+
 
 form label {
   display: block;
