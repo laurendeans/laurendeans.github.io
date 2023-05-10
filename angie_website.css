@@ -39,7 +39,7 @@ nav a:hover{
 }
 
 main {
-  max-width: 900px;
+  max-width: 1200px;
   margin: 0 auto;
   align-items: center;
   padding: 2rem;
@@ -51,6 +51,7 @@ section {
 
 h1, h2, h3 {
   margin-top: 0;
+  text-align: left;
 }
 
 
@@ -66,34 +67,28 @@ padding: 1rem;
 
 .education{
   padding: 1rem;
+  align-items: center;
 }
 
-.education p {
-  
-  
-  
-  
+.boxi {
+  text-align: center;
+  display: inline-block;
+  width: 30%;
+  height: 49%;
 }
 
-#Mankato {
+.box {
+  text-align: left;
+  display: inline-block;
+  justify-content: center;
+  width: 69%;
+  height: 100%;
   
-
-
-}
-
-#Mankato p {
- margin-top: 100px;
-
   
-}
-
-#UNC {
   
 }
 
-#UNC p{
 
-}
 
 .experience{
   padding: 1rem;
