@@ -39,6 +39,13 @@ nav a:hover{
   color:#37C796;
 }
 
+#about img {
+  border: 5px solid rgb(2, 14, 56);
+  border-radius: 50%;
+  height: auto;
+  width: 250px;
+}
+
 main {
   max-width: 1200px;
   margin: 0 auto;
