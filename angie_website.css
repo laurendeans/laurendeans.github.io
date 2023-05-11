@@ -45,16 +45,16 @@ main {
   padding: 2rem;
 }
 
-section {
-  margin-bottom: 2rem;
-}
 
 h1, h2, h3 {
   margin-top: 0;
+  margin-left: -10px;
   text-align: left;
 }
 
+p {
 
+}
 .aboutme {
 height: 300px;
 padding: 1rem;
@@ -99,25 +99,7 @@ padding: 1rem;
 }
 
 
-form label {
-  display: block;
-}
 
-form input[type="text"],
-form input[type="email"],
-form textarea {
-  width: 100%;
-  padding: 0.5rem;
-  margin-bottom: 1rem;
-}
-
-form input[type="submit"] {
-  background-color: #333;
-  color: #fff;
-  border: none;
-  padding: 0.5rem 1rem;
-  cursor: pointer;
-}
 
 footer {
   background-color: rgb(2, 14, 56);
