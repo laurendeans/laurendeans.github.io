@@ -76,6 +76,7 @@ padding: 1rem;
 .aboutme p {
   margin-left: 300px;
   margin-top: -200px;
+  width: 50%;
 }
 
 .education{
